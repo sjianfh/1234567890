@@ -1,8 +1,8 @@
 proxies:
-  - name: "VN-tiktok专线"
+  - name: "VN-TikTok-Professional office"
     type: ss
-    server: shhk1-08051752.666888.biz
-    port: 59857
+    server: 2049-12151721.666888.biz 
+    port: 14687
     cipher: aes-256-gcm
     password: Tg1212121@
     udp: true
