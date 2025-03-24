@@ -3,6 +3,6 @@ proxies:
     type: ss
     server: 2049-12151721.666888.biz 
     port: 14687
-    cipher: aes-256-gcm
+    cipher: aes-256-cfb
     password: Tg1212121@
     udp: true
