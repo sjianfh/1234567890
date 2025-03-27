@@ -1,8 +1,15 @@
 proxies:
+  - name: "链式代理地址"
+    type: ss
+    server: shhk1-08051752.666888.biz
+    port: 25510
+    cipher: aes-256-gcm
+    password: I2ttheewyg
+    udp: true
   - name: "VN-TikTok-Professional office"
     type: ss
     server: 2049-12151721.666888.biz 
     port: 14687
-    cipher: aes-256-cfb
+    cipher: aes-256-gcm
     password: Tg1212121@
     udp: true
